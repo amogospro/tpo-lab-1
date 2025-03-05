@@ -20,7 +20,7 @@ public class SinTest {
     }
 
     @ParameterizedTest(name = "sin({0}) = {1}")
-    @DisplayName("Check between dots [-1; +1]")
+    @DisplayName("Check dots")
     @CsvFileSource(resources = "/table_sin_values.csv", numLinesToSkip = 1, delimiter = ';')
     void checkBetweenDotsMinusPiAndPi(double x, double y) {
         assertAll(

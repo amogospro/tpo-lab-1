@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amoguspro.task3.ProstetnikVogonJeltzTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-03-05T09:48:03" hostname="Wgmlgzs-MacBook-Pro.local" time="0.03">
+  <properties/>
+  <testcase name="testCorrectSmileSequence()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.021"/>
+  <testcase name="testRestState()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.0"/>
+  <testcase name="testSlowSmileCorrectSequence()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.0"/>
+  <testcase name="testResetSmileAttempt()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.001"/>
+  <testcase name="testFullScenario()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.002"/>
+  <testcase name="testSmileThenScream()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.001"/>
+  <testcase name="testScreamSeries()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.0"/>
+  <testcase name="testSlowSmileIncorrectSequence()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.0"/>
+  <testcase name="testIncorrectSmileSequence()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.001"/>
+  <testcase name="testGnustnostState()" classname="com.amoguspro.task3.ProstetnikVogonJeltzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
